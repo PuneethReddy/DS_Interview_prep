@@ -42,5 +42,5 @@
 
     - sampling variability
 
-    ![var](image-6.png)
+    ![var](image-9.png)
 
