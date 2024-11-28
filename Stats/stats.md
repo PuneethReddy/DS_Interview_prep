@@ -24,8 +24,11 @@
     - CLT - sum of iid rvs will tend to normal as n tends to infinity
     It states that, given a sufficiently large sample size from a population with any distribution, the sampling distribution of the sample mean will approximate a normal distribution, regardless of the original population's distribution.
 
+    ![alt text](image-10.png)
+
     - distributions
 
+    ![alt text](image-11.png)
 
 2. sample statistics
 
@@ -43,4 +46,13 @@
     - sampling variability
 
     ![var](image-9.png)
+
+
+3. Probability
+
+    - odds
+
+    ![alt text](image-12.png)
+
+    ![alt text](image-13.png)
 
