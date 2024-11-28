@@ -33,7 +33,18 @@
 
     ![alt text](image-2.png)
 
-    - Statistic is an estimate of the parameter
+    - Statistic is an estimate of the parameter.
+    - sample bias
+
+    ![sample bias](image-3.png)
+
+    - sample error
+
+    ![sample err](image-4.png)
+
+    - sampling variability
+
+    ![sample variability](image-5.png)
     
 
 
