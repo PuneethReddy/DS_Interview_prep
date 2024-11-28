@@ -47,6 +47,12 @@
 
     ![var](image-9.png)
 
+    - standard err and stand dist diff
+
+    ![alt text](image-14.png) | ![alt text](image-15.png)
+
+    ![alt text](image-16.png)
+
 
 3. Probability
 
@@ -54,5 +60,9 @@
 
     ![alt text](image-12.png)
 
+    - prior, posterior, likelihood, marginal
+
     ![alt text](image-13.png)
+
+    - 
 
