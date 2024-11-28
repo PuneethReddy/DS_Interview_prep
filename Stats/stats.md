@@ -46,11 +46,4 @@
 
     ![sample variability](image-5.png)
 
-
-    
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/tc/llq0lpv15h3cq1r4mkrgbv4w0000gn/T/TemporaryItems/NSIRD_screencaptureui_TaULe1/Screenshot%202024-11-28%20at%202.31.29%E2%80%AFPM.png?version%3D1732822295292)
-
-
-
-
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/tc/llq0lpv15h3cq1r4mkrgbv4w0000gn/T/TemporaryItems/NSIRD_screencaptureui_TaULe1/Screenshot%202024-11-28%20at%202.31.29%E2%80%AFPM.png?version%3D1732822308227)
+![alt text](image-6.png)
