@@ -18,6 +18,10 @@
 
         The bias quantifies how far the expected value of the estimator is from the true population parameter.
 
+        ![alt text](image-27.png)
+
+        ![alt text](image-28.png)
+
     - LLN - as n tends to inifity, sample mean will tend to pop mean
     assumption - x are iid rv with constant mean mu
 
@@ -75,6 +79,26 @@
     ![alt text](image-13.png)
 
 4. Hyp tests
+
+![alt text](image-29.png)
+
+- explain p val to non tech audience
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+- errs
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+ power
+
+ 
+
+
 
 
 
