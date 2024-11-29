@@ -140,6 +140,8 @@
 
 ![alt text](image-53.png)
 
+![alt text](image-62.png)
+
 ![alt text](image-54.png)
 
 ![alt text](image-55.png)
@@ -150,7 +152,10 @@
 
 ![alt text](image-59.png)
 ![alt text](image-60.png)
+
+
 - pitfalls of experimentation 
+
 
 
 
@@ -162,9 +167,16 @@
 ![alt text](image-61.png)
 
     - r^2, adj r^2
+    
+    ![alt text](image-63.png)
+
     - f stat
-    - auc roc
-    - pre recall
+    ![alt text](image-64.png)
+
+    - auc roc and pre recall
+
+    ![alt text](image-65.png)
+
     - entropy
     - gini
     - silhouette score
@@ -173,7 +185,8 @@
     - hinge loss
     - log loss
     - mse
-    -
+    - clustering loss
+    - 
 
 
 - causal inference
