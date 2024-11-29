@@ -1,0 +1,10 @@
+- activation
+- loss
+- optimization
+    - convex
+    - is mse convex loss
+- dropout
+- batch norm
+- layer norm 
+- rnn, lstm, gru, transformer
+- auto encoder

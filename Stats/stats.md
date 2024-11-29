@@ -89,6 +89,8 @@
 
 ![alt text](image-31.png)
 
+
+
 - errs
 
 ![alt text](image-32.png)
@@ -97,6 +99,7 @@
 
 - power
 
+![alt text](image-44.png)
 
 ![alt text](image-34.png)
 
@@ -106,6 +109,13 @@
 
 ![alt text](image-35.png)
 
+![alt text](image-45.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
 
 - Hyp testing
 ![alt text](image-38.png)
@@ -119,6 +129,59 @@
     - t dist has fatter tails compared to normal
 
 ![alt text](image-42.png)
+
+![alt text](image-46.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+
+![alt text](image-55.png)
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+![alt text](image-60.png)
+- pitfalls of experimentation 
+
+
+
+
+- sampling and sampling bias
+
+- metrics
+
+![alt text](image-61.png)
+
+    - r^2, adj r^2
+    - f stat
+    - auc roc
+    - pre recall
+    - entropy
+    - gini
+    - silhouette score
+
+- loss
+    - hinge loss
+    - log loss
+    - mse
+    -
+
+
+- causal inference
+
+
+
+
+
 
 
 

@@ -1,0 +1,2 @@
+- acf, pacf, cross correlation,
+- working of shapiro wilk and anderson darling 

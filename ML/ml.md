@@ -1,0 +1,13 @@
+- reg
+    - mle estimate, blue estimator
+
+- def likelihood
+- classification
+- trees
+- svm
+- dim reduction
+- outlier detection
+- imbalance handling
+- feature reduction and regularization
+- clustering
+- survival analysis
