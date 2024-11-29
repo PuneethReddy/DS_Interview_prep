@@ -1,7 +1,8 @@
 1. prob cheat sheet
     imp concepts
 
-    - ![alt text](Stats/images/image.png)
+    
+    ![alt text](image-43.png)
 
     - Kurtosis - measures shape of distribution - especially the tails, are thery heavire or lighter than normal. normal dist has kurtosis = 0
 
