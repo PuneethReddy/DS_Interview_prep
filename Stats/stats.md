@@ -115,6 +115,10 @@
 
 ![alt text](image-41.png)
 
+    - t dist has fatter tails compared to normal
+
+![alt text](image-42.png)
+
 
 
 
