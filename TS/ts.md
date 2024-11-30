@@ -1,2 +1,6 @@
 - acf, pacf, cross correlation,
 - working of shapiro wilk and anderson darling 
+- unit roots
+- stationarity, why is it imp, what will happen if data is not stationary, how is var impacted
+- deterministic and stochastic
+- 

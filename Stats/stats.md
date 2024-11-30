@@ -89,6 +89,43 @@
 
 ![alt text](images/image-31.png)
 
+![alt text](images/image-38.png)
+
+![alt text](images/image-39.png)
+
+![alt text](images/image-40.png)
+
+![alt text](images/image-41.png)
+
+    - t dist has fatter tails compared to normal
+
+![alt text](images/image-42.png)
+
+![alt text](images/image-46.png)
+
+![alt text](images/image-50.png)
+
+![alt text](images/image-51.png)
+
+![alt text](images/image-52.png)
+
+![alt text](images/image-53.png)
+
+![alt text](images/image-62.png)
+
+![alt text](images/image-54.png)
+
+![alt text](images/image-55.png)
+![alt text](images/image-56.png)
+
+![alt text](images/image-57.png)
+![alt text](images/image-58.png)
+
+![alt text](images/image-59.png)
+![alt text](images/image-60.png)
+
+![alt text](image.png)
+
 
 
 - errs
@@ -129,42 +166,6 @@
 ![alt text](images/image-95.png)
 ![alt text](images/image-96.png)
 
-- Hyp testing
-![alt text](images/image-38.png)
-
-![alt text](images/image-39.png)
-
-![alt text](images/image-40.png)
-
-![alt text](images/image-41.png)
-
-    - t dist has fatter tails compared to normal
-
-![alt text](images/image-42.png)
-
-![alt text](images/image-46.png)
-
-![alt text](images/image-50.png)
-
-![alt text](images/image-51.png)
-
-![alt text](images/image-52.png)
-
-![alt text](images/image-53.png)
-
-![alt text](images/image-62.png)
-
-![alt text](images/image-54.png)
-
-![alt text](images/image-55.png)
-![alt text](images/image-56.png)
-
-![alt text](images/image-57.png)
-![alt text](images/image-58.png)
-
-![alt text](images/image-59.png)
-![alt text](images/image-60.png)
-
 
 - pitfalls of experimentation 
 ![alt text](images/image-66.png)
@@ -185,7 +186,16 @@
 ![alt text](images/image-104.png)
 ![alt text](images/image-105.png)
 
+![alt text](image-2.png)
+
+- how to access contamination example 
+![alt text](image-1.png)
+
 - multiple comparisions
+
+    - when to correct for multiple testing
+    ![alt text](image-3.png)
+    ![alt text](image-4.png)
 
 
 
@@ -209,29 +219,28 @@
 ![alt text](images/image-61.png)
 
     - r^2, adj r^2
-    
 ![alt text](images/image-63.png)
 
     - f stat
 ![alt text](images/image-64.png)
 
     - auc roc and pre recall
-
 ![alt text](images/image-65.png)
 
-    - entropy
-    - gini
+    - entropy, gini, ig
+![alt text](image-5.png)
+![alt text](image-6.png)
+    
     - silhouette score
-
-- loss
-    - hinge loss
-    - log loss
-    - mse
-    - clustering loss
-
+![alt text](image-7.png)
 
 
 - causal inference
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
 
 - model calibration
 ![alt text](images/image-70.png)
@@ -247,7 +256,7 @@
 ![alt text](images/image-90.png)
 ![alt text](images/image-89.png)
 
-- missing data
+
 
 
 
