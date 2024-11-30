@@ -173,6 +173,16 @@
 ![alt text](images/image-69.png)
 ![alt text](images/image-85.png)
 
+![alt text](images/image100.png)
+
+![alt text](images/image-101.png)
+
+
+![alt text](images/image102.png.png)
+
+![alt text](images/image103.png)
+
+
 
 - multiple comparisions
 
