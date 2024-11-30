@@ -178,7 +178,7 @@
 ![alt text](images/image-101.png)
 
 
-![alt text](images/image102.png.png)
+![alt text](images/image102.png)
 
 ![alt text](images/image103.png)
 
