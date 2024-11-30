@@ -127,7 +127,7 @@
 ![alt text](images/image-93.png)
 ![alt text](images/image-94.png)
 ![alt text](images/image-95.png)
-![alt text](images/images/images/image-96.png)
+![alt text](images/image-96.png)
 
 - Hyp testing
 ![alt text](images/image-38.png)
@@ -182,8 +182,8 @@
 
 ![alt text](images/image103.png)
 
-![alt text](image.png)
-![alt text](image-2.png)
+![alt text](images/image-104.png)
+![alt text](images/image-105.png)
 
 - multiple comparisions
 
