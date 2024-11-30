@@ -182,7 +182,8 @@
 
 ![alt text](images/image103.png)
 
-
+![alt text](image.png)
+![alt text](image-2.png)
 
 - multiple comparisions
 
@@ -245,6 +246,9 @@
 - simpsons paradox
 ![alt text](images/image-90.png)
 ![alt text](images/image-89.png)
+
+- missing data
+
 
 
 
