@@ -117,6 +117,18 @@
 
 ![alt text](image-49.png)
 
+    - over and underpowered tests
+    ![alt text](image-86.png)
+    ![alt text](image-87.png)
+    ![alt text](image-88.png)
+
+    ![alt text](image-91.png)
+    ![alt text](image-92.png)
+    ![alt text](image-93.png)
+    ![alt text](image-94.png)
+    ![alt text](image-95.png)
+    ![alt text](image-96.png)
+
 - Hyp testing
 ![alt text](image-38.png)
 
@@ -155,12 +167,27 @@
 
 
 - pitfalls of experimentation 
-
+![alt text](image-66.png)
+![alt text](image-67.png)
+![alt text](image-68.png)
+![alt text](image-69.png)
+![alt text](image-85.png)
 
 
 
 
 - sampling and sampling bias
+![alt text](image-75.png)
+![alt text](image-76.png)
+![alt text](image-77.png)
+![alt text](image-78.png)
+
+![alt text](image-84.png)
+
+![alt text](image-79.png)
+![alt text](image-80.png)
+![alt text](image-81.png)
+![alt text](image-82.png)
 
 - metrics
 
@@ -186,11 +213,24 @@
     - log loss
     - mse
     - clustering loss
-    - 
+
 
 
 - causal inference
 
+- model calibration
+![alt text](image-70.png)
+![alt text](image-71.png)
+![alt text](image-72.png)
+![alt text](image-73.png)
+![alt text](image-74.png)
+
+- simulations
+![alt text](image-83.png)
+
+- simpsons paradox
+![alt text](image-90.png)
+![alt text](image-89.png)
 
 
 
