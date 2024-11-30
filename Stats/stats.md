@@ -118,16 +118,16 @@
 ![alt text](image-49.png)
 
     - over and underpowered tests
-    ![alt text](image-86.png)
-    ![alt text](image-87.png)
-    ![alt text](image-88.png)
+![alt text](image-86.png)
+![alt text](image-87.png)
+![alt text](image-88.png)
 
-    ![alt text](image-91.png)
-    ![alt text](image-92.png)
-    ![alt text](image-93.png)
-    ![alt text](image-94.png)
-    ![alt text](image-95.png)
-    ![alt text](image-96.png)
+![alt text](image-91.png)
+![alt text](image-92.png)
+![alt text](image-93.png)
+![alt text](image-94.png)
+![alt text](image-95.png)
+![alt text](image-96.png)
 
 - Hyp testing
 ![alt text](image-38.png)
@@ -195,14 +195,14 @@
 
     - r^2, adj r^2
     
-    ![alt text](image-63.png)
+![alt text](image-63.png)
 
     - f stat
-    ![alt text](image-64.png)
+![alt text](image-64.png)
 
     - auc roc and pre recall
 
-    ![alt text](image-65.png)
+![alt text](image-65.png)
 
     - entropy
     - gini
