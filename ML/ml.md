@@ -7,33 +7,33 @@
 ![alt text](image-25.png)
 
     - mle estimate, blue estimator
-    ![alt text](image-2.png)
-    ![alt text](image-3.png)
-    ![alt text](image-4.png)
-    ![alt text](image-5.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
     
     
     - multicollinearity how it affects outcomes
-    ![alt text](image-6.png)
-    ![alt text](image-7.png)
-    ![alt text](image-8.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
 
-    ![alt text](image-9.png)
-    ![alt text](image-10.png)
-    ![alt text](image-11.png)
-    ![alt text](image-18.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-18.png)
 
 
     - duplicate data
-    ![alt text](image-12.png)
-    ![alt text](image-13.png)
-    ![alt text](image-14.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
 
-    - correlated errors
-    ![alt text](image-26.png)
-    ![alt text](image-27.png)
-    ![alt text](image-28.png)
-    ![alt text](image-29.png)
+- correlated errors
+![alt text](image-26.png)
+![alt text](image-27.png)
+![alt text](image-28.png)
+![alt text](image-29.png)
 
 ![alt text](image-30.png)
 
