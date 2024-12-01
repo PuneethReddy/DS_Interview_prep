@@ -42,19 +42,38 @@
 ![alt text](image-1.png)
 
 - classification
+![alt text](image-35.png)
+![alt text](image-31.png)
+![alt text](image-32.png)
+![alt text](image-33.png)
 
+![alt text](image-34.png)
+
+![alt text](image-36.png)
+![alt text](image-41.png)
 
 - trees
+![alt text](image-38.png)
+![alt text](image-39.png)
+![alt text](image-40.png)
+
 - svm
+
 - dim reduction
+
 - outlier detection
 ![alt text](image-17.png)
+
 - imbalance handling
+
 - feature reduction and regularization
 ![alt text](image-20.png)
 ![alt text](image-21.png)
+
 - clustering
+
 - survival analysis
+
 - missing val, how it identify and handle
 ![alt text](image-19.png)
 ![alt text](image-23.png)
