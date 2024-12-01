@@ -3,4 +3,4 @@
 - unit roots
 - stationarity, why is it imp, what will happen if data is not stationary, how is var impacted
 - deterministic and stochastic
-- 
+- diff seasonality and cyclicity

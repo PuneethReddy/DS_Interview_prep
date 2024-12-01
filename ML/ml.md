@@ -85,9 +85,26 @@
 ![alt text](image-62.png)
 ![alt text](image-63.png)
 ![alt text](image-64.png)
+![alt text](image-66.png)
+![alt text](image-67.png)
 
 
 - svm
+![alt text](image-65.png)
+![alt text](image-68.png)
+![alt text](image-69.png)
+![alt text](image-70.png)
+![alt text](image-71.png)
+![alt text](image-72.png)
+![alt text](image-73.png)
+![alt text](image-74.png)
+![alt text](image-75.png)
+![alt text](image-76.png)
+
+![alt text](image-77.png)
+![alt text](image-78.png)
+![alt text](image-79.png)
+
 
 - dim reduction
 
