@@ -3,6 +3,8 @@
 ![alt text](image-16.png)
 ![alt text](image-22.png)
 ![alt text](image-24.png)
+![alt text](image-117.png)
+![alt text](image-118.png)
 
 
 
@@ -21,12 +23,13 @@
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+![alt text](image-120.png)
 ![alt text](image-18.png)
 
 
     - duplicate data
 ![alt text](image-12.png)
-![alt text](image-13.png)
+![alt text](image-119.png)
 ![alt text](image-14.png)
 
 - correlated errors
@@ -146,7 +149,6 @@ outliers - clipping
 ![alt text](image-101.png)
 ![alt text](image-102.png)
 ![alt text](image-103.png)
-![alt text](image-104.png)
 ![alt text](image-105.png)
 
 ![alt text](image-113.png)
