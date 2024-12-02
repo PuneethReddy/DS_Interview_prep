@@ -104,6 +104,7 @@
 ![alt text](image-77.png)
 ![alt text](image-78.png)
 ![alt text](image-79.png)
+![alt text](image-112.png)
 
 - knn
 ![alt text](image-80.png)
@@ -148,7 +149,8 @@ outliers - clipping
 ![alt text](image-104.png)
 ![alt text](image-105.png)
 
-![alt text](image-111.png)
+![alt text](image-113.png)
+![alt text](image-116.png)
 
 - survival analysis
 
