@@ -148,6 +148,8 @@ outliers - clipping
 ![alt text](image-104.png)
 ![alt text](image-105.png)
 
+![alt text](image-111.png)
+
 - survival analysis
 
 - missing val, how it identify and handle
