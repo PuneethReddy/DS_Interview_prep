@@ -156,9 +156,14 @@ outliers - clipping
 
 - loss
     - hinge loss
+![alt text](image-109.png)
+![alt text](image-110.png)
     - log loss
+![alt text](image-108.png)
     - mse
+![alt text](image-107.png)
     - clustering loss
+![alt text](image-106.png)
 
 
 
