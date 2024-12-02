@@ -105,19 +105,48 @@
 ![alt text](image-78.png)
 ![alt text](image-79.png)
 
+- knn
+![alt text](image-80.png)
+![alt text](image-81.png)
+![alt text](image-82.png)
+![alt text](image-83.png)
 
 - dim reduction
+![alt text](image-84.png)
+![alt text](image-85.png)
+![alt text](image-86.png)
 
 - outlier detection
 ![alt text](image-17.png)
+![alt text](image-87.png)
+![alt text](image-88.png)
+
+outliers - clipping
+![alt text](image-89.png)
+![alt text](image-90.png)
+![alt text](image-91.png)
+![alt text](image-92.png)
 
 - imbalance handling
+![alt text](image-93.png)
+![alt text](image-94.png)
+![alt text](image-95.png)
 
 - feature reduction and regularization
 ![alt text](image-20.png)
 ![alt text](image-21.png)
 
 - clustering
+![alt text](image-96.png)
+![alt text](image-97.png)
+![alt text](image-98.png)
+![alt text](image-99.png)
+![alt text](image-100.png)
+![alt text](image-101.png)
+![alt text](image-102.png)
+![alt text](image-103.png)
+![alt text](image-104.png)
+![alt text](image-105.png)
 
 - survival analysis
 
