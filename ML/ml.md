@@ -109,6 +109,14 @@
 ![alt text](image-79.png)
 ![alt text](image-112.png)
 
+![alt text](image-121.png)
+![alt text](image-122.png)
+![alt text](image-123.png)
+![alt text](image-124.png)
+
+![alt text](image-125.png)
+![alt text](image-126.png)
+
 - knn
 ![alt text](image-80.png)
 ![alt text](image-81.png)
@@ -170,6 +178,7 @@ outliers - clipping
 ![alt text](image-107.png)
     - clustering loss
 ![alt text](image-106.png)
-
+    - huber loss
+![alt text](image-127.png)
 
 
