@@ -1,9 +1,13 @@
 - activation
+
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 ![alt text](image-23.png)
 - loss
+
+
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 ![alt text](image-8.png)
@@ -17,6 +21,8 @@
 ![alt text](image-15.png)
 ![alt text](image-16.png)
 - optimization
+
+
     - convex
     - is mse convex loss
     - gradient descent
@@ -34,6 +40,8 @@
     ![alt text](image-31.png)
     ![alt text](image-32.png)
 - vanishing and exploding gradients
+
+
 ![alt text](image-33.png)
 ![alt text](image-34.png)
 - backprop
