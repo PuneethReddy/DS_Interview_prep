@@ -90,8 +90,17 @@ Avoids unnecessary complexity (fewer parameters).
 ![alt text](image-2.png)
 
 - forecasting interval
+![alt text](image-51.png)
+![alt text](image-52.png)
+![alt text](image-53.png)
+![alt text](image-54.png)
 
 - pre processing
 ![alt text](image-50.png)
+
+
+
+-- common interview questions
+
 
 

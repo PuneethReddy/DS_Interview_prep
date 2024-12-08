@@ -54,6 +54,8 @@
 
 ![alt text](images/image-36.png)
 ![alt text](images/image-41.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 - trees
 ![alt text](images/image-38.png)
