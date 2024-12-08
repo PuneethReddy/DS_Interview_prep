@@ -44,18 +44,26 @@
 
 ![alt text](image-33.png)
 ![alt text](image-34.png)
-- backprop
+- backprop and lr
+
+
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-- learning rate imp
+
 
 - dropout
+
+
 ![alt text](image-35.png)
 - batch norm
+
+
 ![alt text](image-21.png)
 ![alt text](image-36.png)
 
 - layer norm 
+
+
 ![alt text](image-38.png)
 
 - rnn, lstm, gru, transformer
@@ -65,6 +73,8 @@
 - preprocess ts how did you do it
 - nhits nbeats
 - weights
+
+
 ![alt text](image-24.png)
 ![alt text](image-25.png)
 
