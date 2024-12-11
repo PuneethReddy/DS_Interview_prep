@@ -24,6 +24,9 @@ ACF (Autocorrelation Function) and PACF (Partial Autocorrelation Function) are m
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
+![alt text](image-55.png)
+![alt text](image-56.png)
+![alt text](image-57.png)
 
 - stationarity, why is it imp, what will happen if data is not stationary, how is var impacted
 ![alt text](image-29.png)
