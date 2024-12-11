@@ -94,8 +94,14 @@
 ![alt text](images/image-66.png)
 ![alt text](images/image-67.png)
 
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+
 
 - svm
+![alt text](image-7.png)
 ![alt text](images/image-65.png)
 ![alt text](images/image-68.png)
 ![alt text](images/image-69.png)
@@ -164,6 +170,8 @@ outliers - clipping
 
 ![alt text](images/image-113.png)
 ![alt text](images/image-116.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
 
 - survival analysis
 
