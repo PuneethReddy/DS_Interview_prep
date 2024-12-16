@@ -80,4 +80,4 @@
 ![alt text](image-39.png)
 ![alt text](image-40.png)
 
-
+https://chatgpt.com/c/675c226d-c42c-8010-b3f9-006a2aff0948 - for lstm
