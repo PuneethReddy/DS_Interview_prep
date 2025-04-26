@@ -58,6 +58,8 @@
 
     ![alt text](images/image-16.png)
 
+   ![alt text](images/SD_SE_Differences.png)
+
     - intervals
     ![alt text](images/image-19.png)
 
@@ -69,7 +71,7 @@
 
     ![alt text](images/image-25.png)
 
-3. Probability
+4. Probability
 
     - odds
 
@@ -79,7 +81,7 @@
 
     ![alt text](images/image-13.png)
 
-4. Hyp tests
+5. Hyp tests
 
 ![alt text](images/image-29.png)
 
@@ -99,42 +101,64 @@
 
     - t dist has fatter tails compared to normal
 
+![alt text](images/why_does_t_dist_have_fat_tails.png)
+
 ![alt text](images/image-42.png)
 
 ![alt text](images/image-46.png)
 
+![alt text](images/pooled_vs_unpooled_when_to_use.png)
 ![alt text](images/image-50.png)
 
 ![alt text](images/image-51.png)
-
+![alt text](images/ANOVA_intuition.png)
 ![alt text](images/image-52.png)
-
+![alt text](images/How_are_non_parametric_tests_strong.png)
 ![alt text](images/image-53.png)
 
 ![alt text](images/image-62.png)
 
 ![alt text](images/image-54.png)
 
+
 ![alt text](images/image-55.png)
+
+-Core idea Shapiro
+![alt text](images/Shapiro_Core_Idea.png)
+-why_Shapiro_doesnt_work_for_LGdata
+![alt text](images/why_Shapiro_doesnt_work_for_LGdata.png)
+
 ![alt text](images/image-56.png)
 
 ![alt text](images/image-57.png)
 ![alt text](images/image-58.png)
 
 ![alt text](images/image-59.png)
+
+-what_is_unit_root 
+![alt text](images/what_is_unit_root.png)
+-ADF
+![alt text](images/ADF-1.png)
+![alt text](images/ADF-2.png)
+
+
 ![alt text](images/image-60.png)
 
 ![alt text](image.png)
+- Why_is_stationarity_imp
+![alt text](images/Why_is_stationarity_imp.png)
 
 ![alt text](image-24.png)
 ![alt text](image-25.png)
 ![alt text](image-26.png)
 
 ![alt text](image-27.png)
+- effect_size_measures summary
+![alt text](images/effect_size_measures.png)
 ![alt text](image-28.png)
 
-
-
+- multiple_comp_inflate_type 1_error ex
+![alt text](images/effect_size_measures.png)
 - errs
 
 ![alt text](images/image-32.png)
@@ -160,8 +184,10 @@
 ![alt text](images/image-48.png)
 
 ![alt text](images/image-49.png)
-
-    - over and underpowered tests
+-relation_between_alpha_beta_prec_recal
+![alt text](images/relation_between_alpha_beta_prec_recal.png)
+- over and underpowered tests
+  
 ![alt text](images/image-86.png)
 ![alt text](images/image-87.png)
 ![alt text](images/image-88.png)
@@ -227,6 +253,11 @@
 
     - r^2, adj r^2
 ![alt text](images/image-63.png)
+    
+![alt text](images/Rsquared_is_correlation_not_causation.png)
+![alt text](images/Adjusted_R2.png)
+formula_of_adjusted_R2
+![alt text](images/formula_of_adjusted_R2.png)
 
     - f stat
 ![alt text](images/image-64.png)
